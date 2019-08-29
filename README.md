@@ -3,11 +3,19 @@
 The Robot navigates through the city which is described in [city.txt](tt) along the routes described in [routes.txt](r2)
 To add an ability starting the robot on different machines I used docker.
 
+*Note*: Requires python >= 3.7
+
 ## Commands
 
+### Using Docker:
     $ make build - build the docker image
     $ make run - start the robot and navigate through all available routes
     $ make test - run project tests
+
+### Using local env:
+	$ python3 -m venv .env
+	$ python3 setup.py install
+	$ DATA_PATH=data navigate
 
 ## Output
 For the defined city and routes the output is:
