@@ -24,18 +24,20 @@ class Position:
         if self._x == value:
             return
 
+        log.info("Going %s block(s) forward...", abs(self._x - value))
+
         self._x = value
 
-        log.info("Going %s block(s) forward...", abs(self._x - value))
 
     @y.setter
     def y(self, value):
         if self._y == value:
             return
 
+        log.info("Going %s block(s) forward...", abs(self._y - value))
+
         self._y = value
 
-        log.info("Going %s block(s) forward...", abs(self._y - value))
 
     def __eq__(self, other):
         if not isinstance(other, self.__class__):
