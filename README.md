@@ -14,6 +14,7 @@ To add an ability starting the robot on different machines I used docker.
 
 ### Using local env:
 	$ python3 -m venv .env
+	$ source .env/bin/activate
 	$ python3 setup.py install
 	$ DATA_PATH=data navigate
 
