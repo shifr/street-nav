@@ -28,22 +28,22 @@ For the defined city and routes the output is:
     NEW ROUTE
 
     INFO : Navigating 'To work' from the Position(130, 100)...
-    INFO : Go North 5 blocks
+    INFO : > Go North 5 blocks
     INFO : Going 5 block(s) forward...
-    INFO : Turn right
+    INFO : > Turn right
     INFO : Changing direction to East
-    INFO : Go to landmark "Madame Tussauds Wax Museum"
+    INFO : > Go to landmark "Madame Tussauds Wax Museum"
     INFO : Heading for Position(200, 200)...
     INFO : Going 70 block(s) forward...
     INFO : Changing direction to North
     INFO : Going 95 block(s) forward...
     INFO : We're in place!
-    INFO : Go West 25 blocks
+    INFO : > Go West 25 blocks
     INFO : Changing direction to West
     INFO : Going 25 block(s) forward...
-    INFO : Turn left
+    INFO : > Turn left
     INFO : Changing direction to South
-    INFO : Go 3 blocks
+    INFO : > Go 3 blocks
     INFO : Going 3 block(s) forward...
     INFO : Navigation 'To work' finished!
 
@@ -51,27 +51,27 @@ For the defined city and routes the output is:
 
     INFO : Changing direction to North
     INFO : Navigating 'To home' from the Position(10, 10)...
-    INFO : Go North 25 blocks
+    INFO : > Go North 25 blocks
     INFO : Going 25 block(s) forward...
-    INFO : Go East 15 blocks
+    INFO : > Go East 15 blocks
     INFO : Changing direction to East
     INFO : Going 15 block(s) forward...
-    INFO : Turn right
+    INFO : > Turn right
     INFO : Changing direction to South
-    INFO : Go 5 blocks
+    INFO : > Go 5 blocks
     INFO : Going 5 block(s) forward...
-    INFO : Turn left
+    INFO : > Turn left
     INFO : Changing direction to East
-    INFO : Go to landmark "Hyde Park"
+    INFO : > Go to landmark "Hyde Park"
     INFO : Heading for Position(5, 25)...
     INFO : Changing direction to West
     INFO : Going 20 block(s) forward...
     INFO : Changing direction to South
     INFO : Going 5 block(s) forward...
     INFO : We're in place!
-    INFO : Turn right
+    INFO : > Turn right
     INFO : Changing direction to West
-    INFO : Go 3 blocks
+    INFO : > Go 3 blocks
     INFO : Going 3 block(s) forward...
     INFO : Navigation 'To home' finished!
     INFO : All routes are finished!

@@ -48,7 +48,7 @@ class Robot:
         """
         Understand which action to evaluate
         """
-        log.info(action.description)
+        log.info("> %s", action.description)
 
         if action.target is not None:
             return self.go_to_position(action.target.position)
