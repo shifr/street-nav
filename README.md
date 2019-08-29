@@ -1,6 +1,6 @@
 # Navigator
 
-The Robot navigates through the city which is described in [city.txt]() along the routes described in [routes.txt]()
+The Robot navigates through the city which is described in [city.txt](https://github.com/shifr/street-nav/blob/master/data/city.txt) along the routes described in [routes.txt](https://github.com/shifr/street-nav/blob/master/data/routes.txt)
 To add an ability starting the robot on different machines I used docker.
 
 ## Commands
