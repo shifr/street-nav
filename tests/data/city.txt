@@ -1,0 +1,3 @@
+London
+Madame Tussauds Wax Museum (200,200)
+Hyde Park (5,25)

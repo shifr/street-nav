@@ -1,0 +1,14 @@
+#To work
+Start (130,100)
+Go North 5 blocks
+Turn right
+Go to landmark "Madame Tussauds Wax Museum"
+Go West 25 blocks
+Turn left
+Go 3 blocks
+#To home
+Start (10,10)
+Go North 25 blocks
+Turn right
+Go 5 blocks
+Turn left

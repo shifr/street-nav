@@ -1,0 +1,9 @@
+*.pyc
+*.egg-info
+*.eggs
+.env
+.vscode
+dist
+build
+.coverage
+coverage.xml
