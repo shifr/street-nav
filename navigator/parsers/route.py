@@ -52,7 +52,7 @@ class RoutesParser:
 
             while line:
                 action = None
-
+                # logic below could be split into multiple small action parsers
                 if line.startswith(NAME_MARKER):
                     last_route_name = line[1:].strip()
                 elif line.startswith("Start"):
