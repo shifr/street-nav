@@ -1,6 +1,6 @@
 # Navigator
 
-The Robot navigates through the city which is described in [city.txt](tt) along the routes described in [routes.txt](r2)
+The Robot navigates through the city which is described in [city.txt](/data/city.txt) along the routes described in [routes.txt](/data/routes.txt)
 To add an ability starting the robot on different machines I used docker.
 
 *Note*: Requires python >= 3.7
